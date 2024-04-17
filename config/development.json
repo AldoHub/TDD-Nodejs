@@ -1,0 +1,12 @@
+{
+    "database": {
+        "database": "tddDb",
+        "username": "my-tdd-user",
+        "password": "db-pass",
+        "dialect":  "sqlite",
+        "storage": "./database.sqlite",
+        "logging": false
+    }
+   
+}
+
